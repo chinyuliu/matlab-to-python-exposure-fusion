@@ -29,15 +29,6 @@
 
 ---
 
-## 成果展示
-
-| 輸入影像1 | 輸入影像2 | 輸入影像3 | 融合結果 |
-|-----------|-----------|-----------|------------|
-| ![](test_img/venice_under.png) | ![](test_img/venice_normal.png) | ![](test_img/venice_over.png) | ![](fusion_result.png) |
-
-
-融合後的影像同時保留暗部與亮部細節，色彩自然。
-
 <h2>成果展示</h2>
 
 <!-- 輸入影像 -->
@@ -89,7 +80,7 @@ python3 exposure_fusion.py
 ```text
 .
 ├── exposure_fusion.py    # 主程式
-└── test_imgs/            # 放入需處理圖片
+└── test_img/            # 放入需處理圖片
 
 ```
 
