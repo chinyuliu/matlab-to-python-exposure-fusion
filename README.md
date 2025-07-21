@@ -26,7 +26,6 @@
 3. **權重正規化**：避免權重為零與 overflow，進行安全正規化。
 4. **金字塔融合**：建構 Gaussian 與 Laplacian 金字塔，並進行多層融合。
 5. **影像重建**：透過 Laplacian 金字塔重建出最終融合結果。
-6. **結果儲存**：自動輸出結果至指定資料夾。
 
 ---
 
@@ -45,9 +44,9 @@
 <h3>輸入影像</h3>
 <table>
   <tr>
-    <td><img src="test_img/venice_under.png" width="250"/></td>
-    <td><img src="test_img/venice_normal.png" width="250"/></td>
-    <td><img src="test_img/venice_over.png" width="250"/></td>
+    <td><img src="test_img/peyrou_under.jpg" width="250"/></td>
+    <td><img src="test_img/peyrou_mean.jpg" width="250"/></td>
+    <td><img src="test_img/peyrou_over.jpg" width="250"/></td>
   </tr>
 </table>
 
