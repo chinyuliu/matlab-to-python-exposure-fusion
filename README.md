@@ -32,9 +32,10 @@
 
 ## 成果展示
 
-| 輸入影像 | 融合結果 |
-|----------|------------|
-| ![](test_imgs/venice_under.png) ![](test_imgs/venice_normal.png) ![](test_imgs/venice_over.png) | ![](fusion_result.png) |
+| 輸入影像1 | 輸入影像2 | 輸入影像3 | 融合結果 |
+|-----------|-----------|-----------|------------|
+| ![](test_imgs/venice_under.png) | ![](test_imgs/venice_normal.png) | ![](test_imgs/venice_over.png) | ![](fusion_result.png) |
+
 
 融合後的影像同時保留暗部與亮部細節，色彩自然。
 
@@ -65,8 +66,8 @@ python3 exposure_fusion.py
 
 ```text
 .
-├── exposure_fusion.py           # 主程式
-└── test_imgs/          # 放入需處理圖片
+├── exposure_fusion.py    # 主程式
+└── test_imgs/            # 放入需處理圖片
 
 ```
 
@@ -77,6 +78,6 @@ python3 exposure_fusion.py
 - Mertens, T., Kautz, J., & Van Reeth, F. (2007).  
   **Exposure Fusion**. In Proceedings of the 15th Pacific Conference on Computer Graphics and Applications (PG'07) (pp. 382–390). IEEE.
   
-- GitHub 開源程式碼參考：Mericam/exposure-fusion
+- GitHub 開源程式碼參考：https://github.com/Mericam/exposure-fusion
 ---
 
