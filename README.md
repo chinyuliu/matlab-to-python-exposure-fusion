@@ -39,6 +39,23 @@
 
 融合後的影像同時保留暗部與亮部細節，色彩自然。
 
+<h2>成果展示</h2>
+
+<table>
+  <tr>
+    <th colspan="3">輸入影像</th>
+    <th>融合結果</th>
+  </tr>
+  <tr>
+    <td><img src="test_img/venice_under.png" width="200"/></td>
+    <td><img src="test_img/venice_normal.png" width="200"/></td>
+    <td><img src="test_img/venice_over.png" width="200"/></td>
+    <td><img src="fusion_result.png" width="200"/></td>
+  </tr>
+</table>
+
+<p>融合後的影像同時保留暗部與亮部細節，色彩自然。</p>
+
 ---
 
 ## 快速開始
