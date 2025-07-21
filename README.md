@@ -34,7 +34,7 @@
 
 | 輸入影像1 | 輸入影像2 | 輸入影像3 | 融合結果 |
 |-----------|-----------|-----------|------------|
-| ![](test_imgs/venice_under.png) | ![](test_imgs/venice_normal.png) | ![](test_imgs/venice_over.png) | ![](fusion_result.png) |
+| ![](test_img/venice_under.png) | ![](test_img/venice_normal.png) | ![](test_img/venice_over.png) | ![](fusion_result.png) |
 
 
 融合後的影像同時保留暗部與亮部細節，色彩自然。
